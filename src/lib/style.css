@@ -1,0 +1,32 @@
+p {
+    color : black;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 12px;
+    text-align: justify;
+}
+
+h1 {
+    color:black;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+
+h2 {
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: justify;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.info {
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
